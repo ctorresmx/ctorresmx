@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Cash App](cash.app) as a Software Engineer
-- 🌱 I’m currently learning frontend development and tinkering with Rust
+- 🔭 I’m currently working at [Block](https://block.xyz) as a Software Engineer
+- 🌱 I’m currently learning Rust and tinkering with my own hobby projects
 - 💬 Ask me about distributed systems, backend development and software architecture
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/ctorresmx)
 
